@@ -10,27 +10,31 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Anurag Peddi </span>
             from <span className="purple"> Telangana, India.</span>
-            <br />I am a junior pursuing IMTech in COmputer Science in UoH.
+            <br />I am a junior pursuing Int. M.Tech in Computer Science at UoH.
+            <br />I am Data Science Intern at <span className="purple"> Stylumia </span>.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Spending time with friends
+              <ImPointRight /> Participating in Data and Machine Learning Challenges
             </li>
             <li className="about-activity">
               <ImPointRight /> Writting Tech Blogs
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Spending time with friends
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
+          {/* <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Soumyajit</footer> */}
         </blockquote>
       </Card.Body>
     </Card>
