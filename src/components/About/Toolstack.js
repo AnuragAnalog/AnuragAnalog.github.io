@@ -7,7 +7,7 @@ import {
   SiHeroku,
   SiVercel,
   SiTableau,
-  SiPowerBI,
+  SiPowerbi,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -23,7 +23,7 @@ function Toolstack() {
         <SiTableau />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPowerBI />
+        <SiPowerbi />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiHeroku />
