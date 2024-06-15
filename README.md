@@ -1,30 +1,5 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="http://anuraganalog.github.io/" target="_blank">anuraganalog.github.io</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
-
-This is a website which is inspired from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+![Screenshot 2024-05-21 at 1 33 52 PM](https://github.com/Anuhyapeddi/anuhyapeddi_portfolio.github.io/assets/42506400/02fbbd1c-ef6b-48d3-8520-e40c3f5d711f)
+![Screenshot 2024-05-21 at 1 34 17 PM](https://github.com/Anuhyapeddi/anuhyapeddi_portfolio.github.io/assets/42506400/1c949c67-8574-4669-b000-65484c928361)
+![Screenshot 2024-05-21 at 1 34 28 PM](https://github.com/Anuhyapeddi/anuhyapeddi_portfolio.github.io/assets/42506400/7541c93f-dfbc-4c76-a40b-e8985f3aaafa)
+![Screenshot 2024-05-21 at 1 34 38 PM](https://github.com/Anuhyapeddi/anuhyapeddi_portfolio.github.io/assets/42506400/fad16f51-5047-4c71-aef3-e62d5b7e3af6)
+![Screenshot 2024-05-21 at 1 34 46 PM](https://github.com/Anuhyapeddi/anuhyapeddi_portfolio.github.io/assets/42506400/d766c5de-e28d-494a-90b0-41d0e3d8bfcb)
